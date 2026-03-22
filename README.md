@@ -35,6 +35,6 @@ This is a weather application built as part of __The Odin Project__ curriculum. 
 
 ## 🔗 Live Demo
 
-[View Live](https://wise-394.github.io/weather-app)
+[View Live](https://wise-394.github.io/Weather)
 
 > Part of [The Odin Project](https://www.theodinproject.com/) — JavaScript course (APIs and Async).
